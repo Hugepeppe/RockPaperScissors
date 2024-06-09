@@ -1,1 +1,2 @@
 Adding some text.
+Testing VS code for commit message.
